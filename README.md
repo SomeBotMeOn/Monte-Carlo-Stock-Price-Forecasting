@@ -12,4 +12,4 @@
 
 ## Запуск
 
-Зависимости: `numpy`, `pandas`, `matplotlib`, `numba`, `requests`. Открыть `Monte Carlo Forecasting.ipynb` в Jupyter и выполнить по порядку (конфигурация задаётся в первой ячейке кода).
+Открыть `Monte Carlo Forecasting.ipynb` в Jupyter и выполнить по порядку (конфигурация задаётся в первой ячейке кода).
